@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+body{
+    background-color: rgb(157, 163, 250);
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: white;
+}
+
+.label {
+    font-weight: bold;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  .change-devour {
+      background-color:  rgb(247, 196, 221);
+  }
+
+  .add-burger {
+    background-color: rgb(247, 196, 221);
+  }
