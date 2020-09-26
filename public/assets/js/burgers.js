@@ -7,7 +7,7 @@ $(function() {
       var newDevourState = {
         devoured: "true"
       };
-  
+      console.log(newDevour, id, "change-devour burger.js line 10");
       // Send the PUT request.
       $.ajax("/api/burgers/" + id, {
         type: "PUT",
