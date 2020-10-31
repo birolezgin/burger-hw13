@@ -6,14 +6,20 @@ h1 {
     font-size: 36px;
 }
 
-body{
-    background-color: rgb(157, 163, 250);
-}
-
 li {
     padding: 5px;
     margin: 5px;
     background: white;
+}
+
+.container {
+  background-color: #e61620;
+  box-shadow: 0px 2px 10px rgba(54, 56, 56, 0.975);
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 3px solid #616145;
+  
 }
 
 .label {
@@ -22,12 +28,4 @@ li {
   
   .form-group {
     margin-bottom: 5px;
-  }
-
-  .change-devour {
-      background-color:  rgb(247, 196, 221);
-  }
-
-  .add-burger {
-    background-color: rgb(247, 196, 221);
   }
