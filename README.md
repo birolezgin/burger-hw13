@@ -13,4 +13,5 @@ https://hidden-hollows-08916.herokuapp.com/
 
 
 
-![Burger-img](https://user-images.githubusercontent.com/60679626/97794366-3c06ab80-1bb6-11eb-9ac2-31edae92dbe8.PNG)
+![burger-img-min](https://user-images.githubusercontent.com/60679626/98590359-89a0a980-2283-11eb-82b7-9070e66e1b7e.PNG)
+
